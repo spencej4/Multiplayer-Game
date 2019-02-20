@@ -10,7 +10,7 @@ This app requires no depency installs.
 
 * This app is deployed on Heroku
 * Link: https://nameless-cove-46998.herokuapp.com/
-* Github repo: https://github.com/spencej4/game_socket.io
+* Github repo: https://github.com/spencej4/Multiplayer-Game
 
 ## Built With
 
