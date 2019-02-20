@@ -1,6 +1,6 @@
 # Game Using Socket.io for gameplay updates
 
-This project is an Express app, using Node.js and Socket.io to create a connected, real-time game for two or more users.
+This project is an Express app, using Node.js and Socket.io to create an open-network, real-time game for two or more users. 
 
 ## Getting Started
 
