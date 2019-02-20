@@ -8,9 +8,9 @@ This app requires no depency installs.
 
 ## Deployment
 
-This app is deployed on Heroku
-Link: https://nameless-cove-46998.herokuapp.com/
-Github repo: https://github.com/spencej4/game_socket.io
+* This app is deployed on Heroku
+* Link: https://nameless-cove-46998.herokuapp.com/
+* Github repo: https://github.com/spencej4/game_socket.io
 
 ## Built With
 
